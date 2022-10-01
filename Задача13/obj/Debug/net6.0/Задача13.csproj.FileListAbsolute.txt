@@ -1,0 +1,15 @@
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\Задача13.csproj.AssemblyReference.cache
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\Задача13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\Задача13.AssemblyInfoInputs.cache
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\Задача13.AssemblyInfo.cs
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\Задача13.csproj.CoreCompileInputs.cache
+C:\Users\Princess\Desktop\Homework2\Задача13\bin\Debug\net6.0\Задача13.exe
+C:\Users\Princess\Desktop\Homework2\Задача13\bin\Debug\net6.0\Задача13.deps.json
+C:\Users\Princess\Desktop\Homework2\Задача13\bin\Debug\net6.0\Задача13.runtimeconfig.json
+C:\Users\Princess\Desktop\Homework2\Задача13\bin\Debug\net6.0\Задача13.dll
+C:\Users\Princess\Desktop\Homework2\Задача13\bin\Debug\net6.0\Задача13.pdb
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\Задача13.dll
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\refint\Задача13.dll
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\Задача13.pdb
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\Задача13.genruntimeconfig.cache
+C:\Users\Princess\Desktop\Homework2\Задача13\obj\Debug\net6.0\ref\Задача13.dll
